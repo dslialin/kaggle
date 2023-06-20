@@ -6,6 +6,9 @@ Special thanks to my team:
 [Veronika Averkova](https://www.kaggle.com/averkovanika)  
 [Valery Baryshev](https://www.kaggle.com/vrbaryshev)  
 
+On the public leaderboard, we were in 29th place towards the end of the competition (silver medal).  
+However, on the private leaderboard, we dropped to [359th place](https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction/leaderboard?search=practicum) out of 1400 teams due to severe overfitting and imbalance on the private test data.
+
 ## Data
 
 70 Gb of csv and parquet table data.  
