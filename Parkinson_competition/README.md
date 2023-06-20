@@ -1,7 +1,7 @@
 # Parkinson competition
 
 ## Team
-Special thanks to my team:
+Special thanks to my team:  
 [Eric Glukhov](https://www.kaggle.com/ernestglukhov)
 [Veronika Averkova](https://www.kaggle.com/averkovanika)
 [Valery Baryshev](https://www.kaggle.com/vrbaryshev)
